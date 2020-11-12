@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "531023780391",
+    "firebase_url": "https://ggpcond.firebaseio.com",
+    "project_id": "ggpcond",
+    "storage_bucket": "ggpcond.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531023780391:android:3ac59663dbff50d306cc02",
+        "android_client_info": {
+          "package_name": "com.ggp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531023780391-sf09l5i0c3chf1d35fhq4sjp28ue0pju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtqDIEHeXlhtJpNKRIJxfOCw8Rn3608Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531023780391-sf09l5i0c3chf1d35fhq4sjp28ue0pju.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "531023780391-dks66mln8kuiei4n4eme278ml7t8q06d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ggp.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
