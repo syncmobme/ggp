@@ -74,6 +74,7 @@ var $$idcondominioteste = "128";
 var $$idblocoteste = "2547";
 var $$iddomicilioteste = "14555";
 var $$senderID = "531023780391";
+var $$iconcolor = "#4caf50";
 var $$testelocal = false;
 
 logado();
@@ -14479,7 +14480,7 @@ function limpar()
                 android: {
                     senderID: $$senderID,
                     icon: "iconnotification",
-                    iconColor: "#3f51b5"
+                    iconColor: $$iconcolor
                 },
                 ios: {
                     senderID: $$senderID,
