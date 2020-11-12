@@ -143,15 +143,17 @@
 </config-file>
 <preference name="GEOLOCATION_USAGE_DESCRIPTION" default="Usamos a sua localização, quando autorizado, para enviar alertas de chegada para portaria" />
 
-<splash platform="android" src="package-assets/splash-android-320-426.png" density="ldpi" width="320" height="426" orientation="portrait"/>
-<splash platform="android" src="package-assets/splash-android-320-470.png" density="mdpi" width="320" height="470" orientation="portrait"/>
-<splash platform="android" src="package-assets/splash-android-480-640.png" density="hdpi" width="480" height="640" orientation="portrait"/>
-<splash platform="android" src="package-assets/splash-android-720-960.png" density="xhdpi" width="720" height="960" orientation="portrait"/>
+<splash platform="android" src="package-assets/splash-android-200-320.png" density="port-ldpi" width="200" height="320" orientation="portrait"/>
+<splash platform="android" src="package-assets/splash-android-320-480.png" density="port-mdpi" width="320" height="480" orientation="portrait"/>
+<splash platform="android" src="package-assets/splash-android-480-800.png" density="port-hdpi" width="480" height="800" orientation="portrait"/>
+<splash platform="android" src="package-assets/splash-android-720-1280.png" density="port-xhdpi" width="720" height="1280" orientation="portrait"/>
+<splash platform="android" src="package-assets/splash-android-960-1600.png" density="port-xxhdpi" width="960" height="1600" orientation="portrait"/>
+<splash platform="android" src="package-assets/splash-android-1280-1920.png" density="port-xxxhdpi" width="1280" height="1920" orientation="portrait"/>
 
-<splash platform="android" src="package-assets/splash-android-960-720.png" density="xhdpi" width="960" height="720" orientation="landscape"/>
-<splash platform="android" src="package-assets/splash-android-640-480.png" density="hdpi" width="640" height="480" orientation="landscape"/>
-<splash platform="android" src="package-assets/splash-android-470-320.png" density="mdpi" width="470" height="320" orientation="landscape"/>
-<splash platform="android" src="package-assets/splash-android-426-320.png" density="ldpi" width="426" height="320" orientation="landscape"/>
+<splash platform="android" src="package-assets/splash-android-960-720.png" density="land-xhdpi" width="960" height="720" orientation="landscape"/>
+<splash platform="android" src="package-assets/splash-android-640-480.png" density="land-hdpi" width="640" height="480" orientation="landscape"/>
+<splash platform="android" src="package-assets/splash-android-470-320.png" density="land-mdpi" width="470" height="320" orientation="landscape"/>
+<splash platform="android" src="package-assets/splash-android-426-320.png" density="land-ldpi" width="426" height="320" orientation="landscape"/>
 
 <icon platform="android" src="package-assets/icon-36.png" density="ldpi" width="36" height="36"/>
 <icon platform="android" src="package-assets/icon-48.png" density="mdpi" width="48" height="48"/>
