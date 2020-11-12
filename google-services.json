@@ -8,9 +8,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:531023780391:android:3ac59663dbff50d306cc02",
+        "mobilesdk_app_id": "1:531023780391:android:70f3b85602fa6bdd06cc02",
         "android_client_info": {
-          "package_name": "com.ggp.android"
+          "package_name": "com.ggpcond.android"
         }
       },
       "oauth_client": [
