@@ -665,17 +665,13 @@ color: #fff;
 }
 /* login */
 .login-screen-content .login-screen-title{
-	margin: 20px auto!important;
+	margin: 30px auto 30px!important;
 }
 .loginform ul{
 	padding: 10px;
 }
 .page-login{
 	padding: 10px;
-	background: #4caf50;
-    background: -moz-linear-gradient(-45deg, #176517 0%, #4caf50 100%);
-    background: -webkit-linear-gradient(-45deg, #176517 0%,#4caf50 100%);
-    background: linear-gradient(135deg, #176517 0%,#4caf50 100%);
 }
 .page-login input{
 	color: #000!important;
@@ -686,7 +682,7 @@ color: #fff;
 	height:40px;
 }
 .login-logo img{
-	width: 45%;
+	width: 75%;
 }
 .login-logo {
 	text-align: center;
@@ -698,7 +694,8 @@ color: #fff;
 	padding: 10px;
 }
 .loginform{
-	background: #fff;
+	background: #f9f9f9;
+    margin: 0 auto 24px!important;
 }
 
 /* list row*/
