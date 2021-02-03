@@ -1,7 +1,7 @@
 // Initialize your app
 var myApp = new Framework7({
     // Default title for modals
-    modalTitle: 'GGP Condomínios',
+    modalTitle: 'GP Condomínios',
     tapHold: true,
     tapHoldPreventClicks: true,
      // Enable Material theme
@@ -61,7 +61,7 @@ function mplaca(v){
 var $$ = Dom7;
 
 
-var $nameapp = 'GGP Condomínios';
+var $nameapp = 'GP Condomínios';
 var $server = 'https://apptohome.com.br/admin/';
 var $apiKey = 'AAAAe6N72ic:APA91bHtq-4Jbv-RE05sueUVVwHxavhj_ghRw6a12sH-Hk8wAboZBTAyrylRNNtDOGo-c5UV2cj4tQVZz152rZs9QINqcwp6JFjWwaJMUKer25K4I9c1azVAUB4rKRLsN04UKJZpMmkx';
 
